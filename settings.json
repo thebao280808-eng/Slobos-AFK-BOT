@@ -8,7 +8,7 @@
   "server": {
     "ip": "MinecraftkengoSMP.aternos.me",
     "port": 12733,
-    "version": "26.3"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
